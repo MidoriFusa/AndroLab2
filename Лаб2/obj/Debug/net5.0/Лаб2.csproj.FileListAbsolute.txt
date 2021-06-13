@@ -1,0 +1,16 @@
+D:\KPI\Android\Лаб2\bin\Debug\net5.0\Лаб2.exe
+D:\KPI\Android\Лаб2\bin\Debug\net5.0\Лаб2.deps.json
+D:\KPI\Android\Лаб2\bin\Debug\net5.0\Лаб2.runtimeconfig.json
+D:\KPI\Android\Лаб2\bin\Debug\net5.0\Лаб2.runtimeconfig.dev.json
+D:\KPI\Android\Лаб2\bin\Debug\net5.0\Лаб2.dll
+D:\KPI\Android\Лаб2\bin\Debug\net5.0\ref\Лаб2.dll
+D:\KPI\Android\Лаб2\bin\Debug\net5.0\Лаб2.pdb
+D:\KPI\Android\Лаб2\obj\Debug\net5.0\Лаб2.csproj.AssemblyReference.cache
+D:\KPI\Android\Лаб2\obj\Debug\net5.0\Лаб2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\Android\Лаб2\obj\Debug\net5.0\Лаб2.AssemblyInfoInputs.cache
+D:\KPI\Android\Лаб2\obj\Debug\net5.0\Лаб2.AssemblyInfo.cs
+D:\KPI\Android\Лаб2\obj\Debug\net5.0\Лаб2.csproj.CoreCompileInputs.cache
+D:\KPI\Android\Лаб2\obj\Debug\net5.0\Лаб2.dll
+D:\KPI\Android\Лаб2\obj\Debug\net5.0\ref\Лаб2.dll
+D:\KPI\Android\Лаб2\obj\Debug\net5.0\Лаб2.pdb
+D:\KPI\Android\Лаб2\obj\Debug\net5.0\Лаб2.genruntimeconfig.cache
